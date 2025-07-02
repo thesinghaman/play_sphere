@@ -1,0 +1,59 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment files
+.env
+.env.*  # if you use multiple env files like .env.development, .env.production
+
+# Build output
+dist/
+build/
+tmp/
+temp/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Optional npm cache directory
+.npm/
+
+# React specific
+*.tgz
+.cache/
+.eslintcache
+
+# Binaries
+*.exe
+*.out
+*.app
+
+# Misc
+*.pem
+*.key
+*.crt
+*.zip
+*.tar
+*.gz
